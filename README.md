@@ -8,8 +8,7 @@
 -->
 
 # Communicate using Markdown
-## This is a exercise.
-### for my better understanding
+
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 </header>
@@ -74,7 +73,6 @@ _Welcome to "Communicate using Markdown"! :wave:_
 -->
 
 ---
-made some changes in the header section
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/communicate-using-markdown) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
