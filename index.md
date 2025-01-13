@@ -1,8 +1,10 @@
 <header>
-  INDEX.md
+  INDEX file
 </header>
 
 # This is the correct index.md file
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 
